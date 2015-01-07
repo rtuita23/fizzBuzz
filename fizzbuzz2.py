@@ -47,7 +47,7 @@ else:
         print(num)
   except ValueError:
     print("This is not a number!")
-    n = int(raw_input("Please enter a number: "))
+    # n = int(raw_input("Please enter a number: "))
     
     print("Fizz buzz counting up to " + str(n))
 
