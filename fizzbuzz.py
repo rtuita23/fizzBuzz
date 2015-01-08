@@ -9,4 +9,4 @@ for num in range(1,n+1):
   elif num % 5 == 0:
     print("Buzz")
   else:
-    print(num) # print rest of numbers
+    print(num)
